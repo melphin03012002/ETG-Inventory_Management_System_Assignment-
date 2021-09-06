@@ -13,6 +13,13 @@ I've added 5 attributes per product
 4. Manufactured date
 5. Expiry date
 
+# sales.json file
+It has 4 attributes for each product sales record
+1.product
+2.quantity
+3.amount
+4.purchase time
+
 My Project can do the following things
 1.Generate Bills
 2.Update Inventory
